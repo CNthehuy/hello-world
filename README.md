@@ -1,2 +1,5 @@
 # hello-world
-Tutorial for practicing gibhub
+Tutorial for practicing GitHub
+
+Making commit to main GitHub repository
+
